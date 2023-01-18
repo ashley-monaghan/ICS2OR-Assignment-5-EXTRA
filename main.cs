@@ -24,8 +24,8 @@ class Program
 
         Console.WriteLine(" ");
 
-        while (counter < numberOfLoops) {
-    
+        while (counter < numberOfLoops) 
+        {
             double numerator = 4;
             denomonaitor = denomonaitor + 2;
             double multiply = Math.Pow(-1, counter);
